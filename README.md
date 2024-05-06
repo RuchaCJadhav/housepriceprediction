@@ -1,4 +1,4 @@
-# Housepriceprediction
+# House price prediction
 
 Description:
 In our quest for finding a new house, we often encounter challenges such as fraudulent listings, negotiations, and extensive research on local areas. To address these issues, we introduce a Machine Learning-based solution for House Price Prediction.
